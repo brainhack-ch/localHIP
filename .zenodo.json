@@ -1,0 +1,43 @@
+{
+    "license": "Apache-2",
+    "keywords": [
+      "neuroimaging",
+      "workflow",
+      "pipeline",
+      "localization",
+      "SEEG",
+      "MRI",
+      "CT",
+      "BIDS",
+      "BIDS-App"
+    ],
+    "creators": [
+      {
+        "name": "Tourbier, Sebastien",
+        "affiliation": "Radiology Department, Centre Hospitalier Universitaire Vaudois and University of Lausanne (CHUV-UNIL), Switzerland",
+        "orcid": "0000-0002-4441-899X"
+      },
+      {
+        "name": "Luo, Yunzhi",
+        "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Radboud University, The Netherlands",
+        "orcid": "0000-0002-1693-0208"
+      },
+      {
+        "name": "D'Adamo, Davide",
+        "affiliation": "Computer Science Department, Univeristy of Turin, Italy",
+        "orcid": "0000-0001-7264-9798"
+      },
+      {
+        "name": "Wu, Shizhe",
+        "affiliation": "Speech and Language Group, Faculty of Medicine, Department of Basic Neurosciences, University of Geneva,Switzerland",
+        "orcid": "0000-0002-4659-8701"
+      },
+      {
+        "name": "Hebling Vieira, Bruno",
+        "affiliation": "Department of Psychology, University of Zurich, Switzerland",
+        "orcid": "0000-0002-8770-7396"
+      }
+    ],
+    "access_right": "open",
+    "upload_type": "software"
+}
